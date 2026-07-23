@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Rodolfo Silva 👋
 
-<!--
-**rodolfosilva220/rodolfosilva220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with a Master's degree in Cellular and Molecular Biology, passionate about transforming data into actionable insights through analytics, machine learning and business intelligence.
 
-Here are some ideas to get you started:
+## 💼 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Power BI
+- Excel
+- Machine Learning
+- Statistical Analysis
+- Data Visualization
+
+## 🚀 Featured Projects
+
+📊 Sales Performance Dashboard *(Power BI)*
+
+📈 Customer Churn Prediction *(Python, Scikit-learn)*
+
+🧬 GPCR Activity Prediction *(Machine Learning)*
+
+🗃 SQL Retail Analytics *(SQL)*
+
+🏥 Healthcare Analytics *(Python, Power BI)*
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rodolfosilva220
+- 📧 Email: Available upon request
